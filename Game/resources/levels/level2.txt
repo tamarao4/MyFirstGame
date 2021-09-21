@@ -1,0 +1,17 @@
+20 20
+c c p p p p p p p p p p p p p p p p p p
+p p p p p p c c p p c c c p p p p p p p
+p p p c c p p p p p p p p p p c c p p p
+c c p p p p p p p c c p p p p p p p p p
+p p p p p p p p p p p p p p p p p p p p
+p p p p p p p p p p p p p p p p c c p p
+p p p c c p p p c c p p c c p p p p p p
+p p p p p p p p p p p p p p p p p p p p
+p p p p p c c c p p p p p p p p p c c c
+p p p p p p p p p p p p p p p p p p p p
+p p p p p p p p p p p p p p p p p p p p
+c c p p p p p p p c c p p p p p p c c p
+p p p p p p p p p p p p p p p p p p p p
+p p p p p p p p p p p p p c c c c p p p
+p p p c c c p p p p p p p p p p p p p p
+

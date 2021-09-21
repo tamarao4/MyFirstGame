@@ -1,0 +1,3 @@
+resources/tilesets/pozadina4.png
+p 0 100 32 32
+c 0 0 32 32

@@ -1,0 +1,5 @@
+resources/tilesets/pozadina3.png
+p 60 160 32 32
+o 50 16 32 32
+t 0 160 32 32
+

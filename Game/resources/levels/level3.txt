@@ -1,0 +1,19 @@
+20 20
+p p p p p p p h p p p p p p p p p p p p
+p z n n n n n n x p p p p p z n n n x p
+p w g g g g g g e p p p p p w g g g e p
+p w g g g g g g e p p h p p c s s s v p
+p w g g g g g g e p p p p p p p p p p p
+o c s s s s s s v p p p p p o p p p p p
+p p p p p p p p p l p z n n n x p p p p
+m p p m p p p p p p p w g g g e p p p p
+p p p p p p h p p p p w g g g e p p p o
+p h p p p p p l p h p c s s s v p p p p
+o p p p p p p h p p p p p p p p p p p p
+p z n n n n n n x p p o p p p l p p p p
+p w g g g g g g e p p p p p p p p p p p 
+p w g g g g g g e p p h h p p p p l p p
+p c s s s s s s v p p p p p z n n n x p
+p p p p p p p p p l p p p p w g g g e p
+p p o m p p p p p p p p l p w g g g e p
+m p p p p p h p p p p p p p c s s s v p
